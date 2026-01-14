@@ -1,7 +1,7 @@
 url: https://web.seattle.gov/dpd/edms/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-14T09:16:07.471Z
+status: up
+code: 200
+responseTime: 351
+lastUpdated: 2026-01-14T09:44:58.128Z
 startTime: 2025-07-11T00:31:21.677Z
 generator: Upptime <https://github.com/upptime/upptime>
