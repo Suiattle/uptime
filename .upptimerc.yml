@@ -8,7 +8,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 403
     headers:
       - "User-Agent: uptime/monitor"
   - name: Seattle Services Portal
@@ -29,6 +28,8 @@ sites:
     url: https://onlinelicensing.petpoint.com/OnlineLicensing/
   - name: Seattle Municipal Court Payments
     url: https://secure8.i-doxs.net/SeattleSMC/
+  - name: Seattle Public Utilities Side Sewer Cards and Maps
+    url: https://maps.seattle.gov/sidesewercardviewer/
   - name: Seattle Utilities ePortal
     url: https://myutilities.seattle.gov/eportal/
   - name: Seattle Utility Services One-time Payment
