@@ -58,7 +58,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
-      href: /
+      href: /uptime
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
 
