@@ -4,17 +4,17 @@
     "url": "https://www.seattle.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.seattle.gov.ico",
     "slug": "city-of-seattle-official-website",
-    "status": "down",
-    "uptime": "95.43%",
-    "uptimeDay": "91.15%",
-    "uptimeWeek": "88.83%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "95.43%",
-    "time": 369,
-    "timeDay": 180,
-    "timeWeek": 407,
-    "timeMonth": 705,
-    "timeYear": 369,
+    "status": "up",
+    "uptime": "95.39%",
+    "uptimeDay": "75.92%",
+    "uptimeWeek": "86.65%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "95.39%",
+    "time": 370,
+    "timeDay": 804,
+    "timeWeek": 523,
+    "timeMonth": 758,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-10-29": 389,
       "2025-10-30": 1019,
@@ -40,7 +40,7 @@
       "2026-06-06": 188,
       "2026-06-09": 267,
       "2026-06-10": 218,
-      "2026-06-11": 0
+      "2026-06-11": 220
     }
   },
   {
