@@ -49,17 +49,17 @@
     "url": "https://services.seattle.gov/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/services.seattle.gov.ico",
     "slug": "seattle-services-portal",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
-    "time": 417,
-    "timeDay": 197,
-    "timeWeek": 349,
-    "timeMonth": 488,
-    "timeYear": 417,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "86.09%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.49%",
+    "time": 418,
+    "timeDay": 340,
+    "timeWeek": 380,
+    "timeMonth": 492,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-07-29": 21,
       "2025-08-01": 55,
@@ -115,7 +115,7 @@
       "2026-03-29": 50,
       "2026-04-07": 69,
       "2026-05-01": 169,
-      "2026-07-07": 0
+      "2026-07-07": 200
     }
   },
   {
