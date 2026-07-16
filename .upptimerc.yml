@@ -50,8 +50,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Uptime** is an open-source uptime monitor."
-  introMessage: This status page is built using GitHub Actions, Issues, and Pages.
+  # introTitle: "**Uptime** is an open-source uptime monitor."
+  # introMessage: This status page is built using GitHub Actions, Issues, and Pages.
   status-website:
   theme: ocean
   content: "noindex"
