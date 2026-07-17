@@ -328,10 +328,10 @@
     "url": "https://utilities-self-service.ebill.seattle.gov/SeattleUtilities/OneTimeAdd.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/utilities-self-service.ebill.seattle.gov.ico",
     "slug": "seattle-utility-services-one-time-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 324,
@@ -391,7 +391,8 @@
       "2026-06-07": 60,
       "2026-06-10": 246,
       "2026-06-11": 275,
-      "2026-06-12": 243
+      "2026-06-12": 243,
+      "2026-07-17": 1
     }
   }
 ]
