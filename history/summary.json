@@ -269,18 +269,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildingenergy.seattle.gov.ico",
     "slug": "seattle-building-and-energy-portal",
     "status": "down",
-    "uptime": "30.70%",
-    "uptimeDay": "30.70%",
-    "uptimeWeek": "30.70%",
-    "uptimeMonth": "30.70%",
-    "uptimeYear": "30.70%",
+    "uptime": "16.79%",
+    "uptimeDay": "16.79%",
+    "uptimeWeek": "16.79%",
+    "uptimeMonth": "16.79%",
+    "uptimeYear": "16.79%",
     "time": 208,
     "timeDay": 208,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-07-20": 0
+      "2026-07-20": 1
     }
   },
   {
