@@ -26,7 +26,7 @@ sites:
     url: https://web6.seattle.gov/FAS/Vsid
   - name: Seattle Animal Shelter Online Licensing
     url: https://onlinelicensing.petpoint.com/OnlineLicensing/
-  - name: Seattle Energy Benchmarking & Building Emissions Performance Standard Compliance Portal
+  - name: Seattle Building & Energy Portal
     url: https://buildingenergy.seattle.gov/portal/
   - name: Seattle Municipal Court Payments
     url: https://secure8.i-doxs.net/SeattleSMC/
