@@ -53,17 +53,17 @@
     "url": "https://services.seattle.gov/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/services.seattle.gov.ico",
     "slug": "seattle-services-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "96.69%",
+    "uptimeDay": "96.67%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.37%",
-    "time": 421,
-    "timeDay": 251,
-    "timeWeek": 307,
-    "timeMonth": 295,
-    "timeYear": 425,
+    "time": 420,
+    "timeDay": 201,
+    "timeWeek": 289,
+    "timeMonth": 290,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-08-26": 31,
       "2025-09-17": 29,
@@ -126,7 +126,8 @@
       "2026-08-17": 66,
       "2026-08-19": 29,
       "2026-08-22": 30,
-      "2026-08-24": 48
+      "2026-08-24": 48,
+      "2026-08-25": 0
     }
   },
   {
@@ -239,7 +240,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/onlinelicensing.petpoint.com.ico",
     "slug": "seattle-animal-shelter-online-licensing",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
