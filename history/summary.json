@@ -239,7 +239,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/onlinelicensing.petpoint.com.ico",
     "slug": "seattle-animal-shelter-online-licensing",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -335,17 +335,17 @@
     "url": "https://utilities-self-service.ebill.seattle.gov/SeattleUtilities/OneTimeAdd.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/utilities-self-service.ebill.seattle.gov.ico",
     "slug": "seattle-utility-services-one-time-payment",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.15%",
-    "time": 327,
-    "timeDay": 0,
-    "timeWeek": 253,
-    "timeMonth": 335,
-    "timeYear": 327,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "81.31%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.12%",
+    "time": 328,
+    "timeDay": 496,
+    "timeWeek": 262,
+    "timeMonth": 340,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-09-18": 33,
       "2025-09-19": 74,
@@ -405,7 +405,7 @@
       "2026-07-27": 202,
       "2026-08-04": 79,
       "2026-08-25": 24,
-      "2026-09-01": 70
+      "2026-09-01": 269
     }
   }
 ]
