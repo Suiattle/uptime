@@ -277,9 +277,9 @@
     "slug": "seattle-building-and-energy-portal",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "15.01%",
-    "uptimeWeek": "15.01%",
-    "uptimeMonth": "15.01%",
+    "uptimeDay": "10.04%",
+    "uptimeWeek": "10.04%",
+    "uptimeMonth": "10.04%",
     "uptimeYear": "0.00%",
     "time": 185,
     "timeDay": 164,
@@ -288,7 +288,7 @@
     "timeYear": 185,
     "dailyMinutesDown": {
       "2026-07-20": 99,
-      "2026-09-15": 1
+      "2026-09-15": 2
     }
   },
   {
@@ -298,9 +298,9 @@
     "slug": "seattle-energy-benchmarking-map",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "17.14%",
-    "uptimeWeek": "17.14%",
-    "uptimeMonth": "17.14%",
+    "uptimeDay": "10.73%",
+    "uptimeWeek": "10.73%",
+    "uptimeMonth": "10.73%",
     "uptimeYear": "0.00%",
     "time": 178,
     "timeDay": 177,
@@ -309,7 +309,7 @@
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-07-20": 88,
-      "2026-09-15": 1
+      "2026-09-15": 2
     }
   },
   {
@@ -318,11 +318,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildingenergy.seattle.gov.ico",
     "slug": "seattle-energy-benchmarking-lookup",
     "status": "down",
-    "uptime": "24.29%",
-    "uptimeDay": "24.29%",
-    "uptimeWeek": "24.29%",
-    "uptimeMonth": "24.29%",
-    "uptimeYear": "24.29%",
+    "uptime": "13.86%",
+    "uptimeDay": "13.86%",
+    "uptimeWeek": "13.86%",
+    "uptimeMonth": "13.86%",
+    "uptimeYear": "13.86%",
     "time": 176,
     "timeDay": 176,
     "timeWeek": 176,
